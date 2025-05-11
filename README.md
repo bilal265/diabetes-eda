@@ -40,6 +40,19 @@ To run the notebook locally:
 - Jupyter Notebook or JupyterLab
 - Required libraries: `pandas`, `matplotlib`, `seaborn`, `numpy`
 
+### Key Features
+The notebook explores:
+
+- Data cleaning and missing value handling
+
+- Univariate and multivariate analysis
+
+- Correlation matrix and heatmaps
+
+- Class balance of diabetic vs non-diabetic outcomes
+
+- Distribution of key predictors like glucose and BMI
+
 ### 📥 Installation
 
 ```bash
@@ -55,15 +68,3 @@ source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 pip install -r requirements.txt
 
 
-### Key Insights
-The notebook explores:
-
-Data cleaning and missing value handling
-
-Univariate and multivariate analysis
-
-Correlation matrix and heatmaps
-
-Class balance of diabetic vs non-diabetic outcomes
-
-Distribution of key predictors like glucose and BMI
