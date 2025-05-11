@@ -5,9 +5,9 @@ This repository contains an exploratory data analysis (EDA) of the Pima Indians 
 ---
 
 ## 📁 Project Structure
- EDA.ipynb # Jupyter notebook for EDA
- pima-indians-diabetes.csv # Dataset used for analysis
- README.md # Project documentation
+- EDA.ipynb # Jupyter notebook for EDA.
+- pima-indians-diabetes.csv # Dataset used for analysis.
+- README.md # Project documentation.
 
 
 ---
